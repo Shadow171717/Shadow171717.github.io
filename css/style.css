@@ -1,0 +1,47 @@
+body {
+    background: #c3c4cc;
+   font-size:18px;  
+    font-family: fantasy;
+}
+
+img{
+    width: 400px;
+    transition: 0.8s;
+}
+
+div{
+    width: 800px;
+}
+.news{
+    background:#b2b2b2;
+    padding: 10px 80px;
+}
+
+
+.btn_p {
+ background: #ff4242;
+ padding: 10px 30px;
+ color: #262626;
+ text-decoration: none;
+ transition: 0.3s;   
+}
+
+
+.btn_p:hover {
+    background: #8839f4;
+}
+
+img:hover {
+    border-radius: 30px;
+    transition: 0.8s;
+}
+@media (max-width:768px){
+    h2 {
+        font-size: 33px;
+    }
+    p {
+        font-size: 18px;
+    }  
+    
+
+   
